@@ -1,0 +1,401 @@
+Sample,Color,Color Forrest,Color Combined,Speckled
+BTX623,white,white,white,FALSE
+SAP1,chalky white,chalky white,cream,FALSE
+SAP2,dark brown,dark brown,dark brown,FALSE
+SAP3,yellow,yellow,yellow,FALSE
+SAP4,cream,cream,cream,FALSE
+SAP5,dark brown,dark brown,dark brown,FALSE
+SAP6,chalky white,chalky white,white,FALSE
+SAP7,chalky white,chalky white,chalky white,FALSE
+SAP8,chalky white,chalky white,pearl,TRUE
+SAP9,light brown,light brown,pearl,FALSE
+SAP10,cream,cream,light brown,FALSE
+SAP11,light brown,light brown,cream,FALSE
+SAP12,red,red,light brown,FALSE
+SAP13,white,white,red,FALSE
+SAP14,red,red,white,FALSE
+SAP15,red,red,red,FALSE
+SAP16,light brown,light brown,red,FALSE
+SAP17,white,white,light brown,FALSE
+SAP18,pearl,pearl,white,FALSE
+SAP19,light brown,light brown,light brown,FALSE
+SAP20,dark brown,dark brown,dark brown,FALSE
+SAP21,chalky white,chalky white,chalky white,TRUE
+SAP22,red,red,red,FALSE
+SAP23,light brown,light brown,light brown,FALSE
+SAP24,white,white,chalky white,FALSE
+SAP25,light brown,light brown,light brown,FALSE
+SAP26,dark brown,dark brown,dark brown,FALSE
+SAP27,red,red,red,FALSE
+SAP28,chalky white,white,white,TRUE
+SAP29,dark brown,dark brown,dark brown,FALSE
+SAP30,white,cream,chalky white,TRUE
+SAP31,light brown,light brown,dark brown,FALSE
+SAP32,white,chalky white,chalky white,TRUE
+SAP33,light brown,dark brown,dark brown,FALSE
+SAP34,red,red,light red,FALSE
+SAP35,cream,cream,cream,FALSE
+SAP36,light brown,dark brown,dark brown,TRUE
+SAP37,cream,white,white,FALSE
+SAP38,light brown,light brown,light brown,FALSE
+SAP39,dark brown,dark brown,dark brown,FALSE
+SAP40,white,pearl,cream,FALSE
+SAP41,red,light brown,light brown,FALSE
+SAP42,white,chalky white,white,TRUE
+SAP43,chalky white,pearl,pearl,TRUE
+SAP44,light brown,dark brown,dark brown,FALSE
+SAP45,yellow,yellow,yellow,FALSE
+SAP46,pearl,pearl,chalky white,FALSE
+SAP47,cream,yellow,cream,FALSE
+SAP48,red,red,red,FALSE
+SAP49,yellow,yellow,yellow,TRUE
+SAP50,dark brown,dark brown,dark brown,FALSE
+SAP51,yellow,light brown,light brown,FALSE
+SAP52,chalky white,chalky white,pearl,TRUE
+SAP53,pearl,white,white,FALSE
+SAP54,chalky white,pearl,pearl,TRUE
+SAP55,yellow,light brown,yellow,FALSE
+SAP56,cream,yellow,yellow,FALSE
+SAP57,light brown,red,red,FALSE
+SAP58,cream,chalky white,chalky white,TRUE
+SAP59,white,pearl,chalky white,FALSE
+SAP60,pearl,white,white,FALSE
+SAP61,yellow,yellow,yellow,FALSE
+SAP62,red,red,red,FALSE
+SAP63,dark brown,dark brown,dark brown,FALSE
+SAP64,light brown,light brown,light brown,FALSE
+SAP65,white,light brown,light brown,TRUE
+SAP66,pearl,chalky white,chalky white,FALSE
+SAP67,white,chalky white,red,TRUE
+SAP68,red,red,red,FALSE
+SAP69,pearl,chalky white,chalky white,TRUE
+SAP70,white,white,cream,FALSE
+SAP71,yellow,yellow,yellow,FALSE
+SAP72,light brown,dark brown,dark brown,FALSE
+SAP73,pearl,white,chalky white,TRUE
+SAP74,light brown,dark brown,dark brown,FALSE
+SAP75,light brown,dark brown,dark brown,FALSE
+SAP76,white,pearl,cream,FALSE
+SAP77,light brown,dark brown,dark brown,FALSE
+SAP78,pearl,white,pearl,FALSE
+SAP79,white,pearl,cream,FALSE
+SAP80,pearl,white,chalky white,FALSE
+SAP81,yellow,yellow,yellow,FALSE
+SAP82,pearl,white,cream,FALSE
+SAP83,pearl,white,white,FALSE
+SAP84,white,chalky white,chalky white,TRUE
+SAP85,cream,cream,white,FALSE
+SAP86,yellow,yellow,cream,FALSE
+SAP87,yellow,light brown,cream,FALSE
+SAP88,cream,chalky white,white,FALSE
+SAP89,yellow,yellow,cream,FALSE
+SAP90,red,red,red,FALSE
+SAP91,red,red,red,FALSE
+SAP92,yellow,yellow,yellow,FALSE
+SAP93,yellow,yellow,yellow,FALSE
+SAP94,white,light brown,light brown,FALSE
+SAP95,dark brown,dark brown,dark brown,FALSE
+SAP96,light brown,light brown,light brown,FALSE
+SAP97,cream,white,white,FALSE
+SAP98,white,light brown,chalky white,TRUE
+SAP99,dark brown,dark brown,dark brown,FALSE
+SAP100,cream,white,white,FALSE
+SAP101,white,cream,chalky white,FALSE
+SAP102,dark brown,dark brown,dark brown,FALSE
+SAP103,yellow,light brown,yellow,TRUE
+SAP104,dark brown,dark brown,dark brown,FALSE
+SAP105,light brown,dark brown,dark brown,FALSE
+SAP106,light brown,light brown,light brown,FALSE
+SAP107,light brown,red,red,FALSE
+SAP108,red,light brown,red,FALSE
+SAP109,light brown,light brown,dark brown,FALSE
+SAP110,pearl,white,white,FALSE
+SAP111,pearl,white,white,FALSE
+SAP112,yellow,yellow,yellow,FALSE
+SAP113,pearl,white,white,FALSE
+SAP114,light brown,red,light brown,FALSE
+SAP115,dark brown,dark brown,dark brown,FALSE
+SAP116,light brown,dark brown,dark brown,FALSE
+SAP117,dark brown,dark brown,dark brown,FALSE
+SAP118,yellow,light brown,light brown,FALSE
+SAP119,red,light brown,red,FALSE
+SAP120,yellow,cream,cream,FALSE
+SAP121,light brown,dark brown,dark brown,FALSE
+SAP122,yellow,yellow,cream,FALSE
+SAP123,cream,chalky white,pearl,TRUE
+SAP124,yellow,yellow,yellow,TRUE
+SAP125,light brown,red,red,FALSE
+SAP126,pearl,pearl,white,FALSE
+SAP127,white,cream,cream,TRUE
+SAP128,yellow,light brown,light brown,FALSE
+SAP129,yellow,light brown,light brown,FALSE
+SAP130,red,light brown,red,TRUE
+SAP131,pearl,cream,cream,FALSE
+SAP132,yellow,yellow,yellow,FALSE
+SAP133,yellow,light brown,light brown,FALSE
+SAP134,pearl,white,white,FALSE
+SAP135,light brown,dark brown,dark brown,FALSE
+SAP136,yellow,yellow,yellow,FALSE
+SAP137,white,pearl,cream,FALSE
+SAP138,pearl,cream,chalky white,TRUE
+SAP139,yellow,yellow,light brown,FALSE
+SAP140,white,chalky white,pearl,FALSE
+SAP141,red,red,red,FALSE
+SAP142,pearl,chalky white,pearl,FALSE
+SAP143,red,red,red,FALSE
+SAP144,light brown,light brown,light red,FALSE
+SAP145,red,red,red,FALSE
+SAP146,yellow,yellow,yellow,FALSE
+SAP147,pearl,white,pearl,TRUE
+SAP148,yellow,yellow,yellow,FALSE
+SAP149,yellow,yellow,yellow,FALSE
+SAP150,light brown,red,light brown,FALSE
+SAP151,cream,cream,cream,TRUE
+SAP152,white,chalky white,pearl,TRUE
+SAP153,yellow,light brown,cream,TRUE
+SAP154,yellow,light brown,light brown,TRUE
+SAP155,yellow,yellow,yellow,TRUE
+SAP156,yellow,light brown,light brown,FALSE
+SAP157,yellow,light brown,light brown,FALSE
+SAP158,light brown,light brown,light brown,FALSE
+SAP159,pearl,pearl,white,FALSE
+SAP160,dark brown,dark brown,dark brown,FALSE
+SAP161,dark brown,dark brown,red,FALSE
+SAP162,dark brown,dark brown,dark brown,FALSE
+SAP163,dark brown,dark brown,dark brown,FALSE
+SAP164,dark brown,dark brown,red,FALSE
+SAP165,light brown,light brown,light red,FALSE
+SAP166,red,red,light red,FALSE
+SAP167,yellow,yellow,yellow,FALSE
+SAP168,yellow,cream,yellow,FALSE
+SAP169,yellow,yellow,yellow,FALSE
+SAP170,yellow,yellow,light brown,FALSE
+SAP171,red,light brown,light red,FALSE
+SAP172,dark brown,dark brown,red,FALSE
+SAP173,red,red,red,FALSE
+SAP174,dark brown,dark brown,dark brown,FALSE
+SAP175,dark brown,dark brown,dark brown,FALSE
+SAP176,pearl,pearl,cream,FALSE
+SAP177,white,chalky white,white,FALSE
+SAP178,light brown,light brown,yellow,TRUE
+SAP179,dark brown,dark brown,dark brown,FALSE
+SAP180,light brown,light brown,red,FALSE
+SAP181,pearl,white,white,FALSE
+SAP182,red,light brown,light red,FALSE
+SAP183,pearl,white,white,FALSE
+SAP184,yellow,yellow,yellow,FALSE
+SAP185,white,cream,cream,TRUE
+SAP186,pearl,pearl,cream,FALSE
+SAP187,pearl,pearl,white,FALSE
+SAP188,white,pearl,white,FALSE
+SAP189,red,red,red,FALSE
+SAP190,red,red,light red,FALSE
+SAP191,pearl,white,cream,FALSE
+SAP192,light brown,dark brown,red,FALSE
+SAP193,light brown,light brown,light red,FALSE
+SAP194,pearl,cream,cream,FALSE
+SAP195,light brown,dark brown,red,FALSE
+SAP196,pearl,cream,cream,FALSE
+SAP197,dark brown,dark brown,dark brown,FALSE
+SAP198,pearl,pearl,white,FALSE
+SAP199,red,red,red,FALSE
+SAP200,white,,yellow,FALSE
+SAP201,white,,light brown,FALSE
+SAP202,dark brown,,dark brown,FALSE
+SAP203,dark brown,,dark brown,FALSE
+SAP204,white,,cream,FALSE
+SAP205,white,,white,FALSE
+SAP206,dark brown,,dark brown,FALSE
+SAP207,light brown,,dark brown,FALSE
+SAP208,chalky white,,pearl,TRUE
+SAP209,yellow,,yellow,FALSE
+SAP210,cream,,cream,FALSE
+SAP211,chalky white,,chalky white,FALSE
+SAP212,yellow,,light brown,FALSE
+SAP213,white,,chalky white,FALSE
+SAP214,dark brown,,dark brown,FALSE
+SAP215,white,,white,FALSE
+SAP216,yellow,,yellow,FALSE
+SAP217,dark brown,,dark brown,FALSE
+SAP218,dark brown,,dark brown,FALSE
+SAP219,pearl,,cream,FALSE
+SAP220,dark brown,,dark brown,FALSE
+SAP221,cream,,pearl,TRUE
+SAP222,cream,,cream,FALSE
+SAP223,red,,red,FALSE
+SAP224,cream,,white,FALSE
+SAP225,dark brown,,dark brown,FALSE
+SAP226,red,,red,FALSE
+SAP227,yellow,,yellow,FALSE
+SAP228,cream,,cream,FALSE
+SAP229,cream,,cream,FALSE
+SAP230,chalky white,,chalky white,TRUE
+SAP231,red,,light brown,FALSE
+SAP232,yellow,,yellow,FALSE
+SAP233,cream,,cream,TRUE
+SAP234,yellow,,light brown,FALSE
+SAP235,white,,chalky white,FALSE
+SAP236,red,,light red,FALSE
+SAP237,cream,,yellow,TRUE
+SAP238,light brown,,light brown,FALSE
+SAP239,dark brown,,dark brown,FALSE
+SAP240,cream,,cream,FALSE
+SAP241,light brown,,light brown,FALSE
+SAP242,white,,chalky white,FALSE
+SAP243,dark brown,,dark brown,FALSE
+SAP244,yellow,,yellow,FALSE
+SAP245,light brown,,dark brown,FALSE
+SAP246,white,,white,FALSE
+SAP247,white,,white,FALSE
+SAP248,white,,white,FALSE
+SAP249,chalky white,,chalky white,TRUE
+SAP250,red,,light red,FALSE
+SAP251,cream,,chalky white,FALSE
+SAP252,cream,,white,FALSE
+SAP253,yellow,,cream,FALSE
+SAP254,light brown,,dark brown,FALSE
+SAP255,light brown,,light brown,FALSE
+SAP256,light brown,,light brown,FALSE
+SAP257,cream,,cream,FALSE
+SAP258,dark brown,,dark brown,FALSE
+SAP259,red,,dark brown,FALSE
+SAP260,chalky white,,dark brown,TRUE
+SAP261,chalky white,,chalky white,TRUE
+SAP262,cream,,cream,TRUE
+SAP263,white,,pearl,FALSE
+SAP264,dark brown,,dark brown,FALSE
+SAP265,light brown,,dark brown,FALSE
+SAP266,red,,light brown,FALSE
+SAP267,cream,,cream,FALSE
+SAP268,red,,red,FALSE
+SAP269,cream,,yellow,FALSE
+SAP270,yellow,,yellow,TRUE
+SAP271,light brown,,dark brown,FALSE
+SAP272,dark brown,,dark brown,FALSE
+SAP273,dark brown,,dark brown,FALSE
+SAP274,light brown,,dark brown,FALSE
+SAP275,dark brown,,dark brown,FALSE
+SAP276,cream,,yellow,FALSE
+SAP277,red,,light red,FALSE
+SAP278,white,,cream,FALSE
+SAP279,cream,,chalky white,TRUE
+SAP280,dark brown,,dark brown,FALSE
+SAP281,red,,light brown,TRUE
+SAP282,red,,light red,TRUE
+SAP283,light brown,,dark brown,FALSE
+SAP284,yellow,,cream,FALSE
+SAP285,white,,chalky white,FALSE
+SAP286,cream,,cream,FALSE
+SAP287,cream,,cream,TRUE
+SAP288,yellow,,yellow,FALSE
+SAP289,cream,,cream,FALSE
+SAP290,cream,,cream,FALSE
+SAP291,light brown,,light brown,FALSE
+SAP292,red,,dark brown,FALSE
+SAP293,chalky white,,chalky white,TRUE
+SAP294,yellow,,cream,FALSE
+SAP295,cream,,chalky white,FALSE
+SAP296,light brown,,light brown,FALSE
+SAP297,red,,light red,FALSE
+SAP298,light brown,,light brown,FALSE
+SAP299,red,,light red,TRUE
+SAP300,cream,,white,FALSE
+SAP301,yellow,,cream,FALSE
+SAP302,yellow,,cream,FALSE
+SAP303,red,,light brown,FALSE
+SAP305,light brown,,cream,FALSE
+SAP306,cream,,yellow,FALSE
+SAP307,yellow,,red,FALSE
+SAP308,light brown,,yellow,TRUE
+SAP309,yellow,,light red,TRUE
+SAP310,red,,cream,FALSE
+SAP311,cream,,cream,FALSE
+SAP312,cream,,light red,FALSE
+SAP313,light brown,,cream,FALSE
+SAP314,cream,,white,FALSE
+SAP315,white,,cream,FALSE
+SAP316,cream,,cream,FALSE
+SAP317,cream,,light brown,FALSE
+SAP318,light brown,,cream,FALSE
+SAP319,cream,,yellow,FALSE
+SAP320,yellow,,white,FALSE
+SAP321,red,,cream,FALSE
+SAP322,chalky white,,cream,FALSE
+SAP323,cream,,light brown,FALSE
+SAP324,chalky white,,cream,FALSE
+SAP325,light brown,,white,FALSE
+SAP326,cream,,white,FALSE
+SAP327,white,,white,FALSE
+SAP328,white,,cream,FALSE
+SAP329,white,,cream,FALSE
+SAP330,yellow,,white,FALSE
+SAP331,cream,,cream,FALSE
+SAP332,white,,cream,FALSE
+SAP333,cream,,cream,FALSE
+SAP334,cream,,chalky white,FALSE
+SAP335,chalky white,,yellow,FALSE
+SAP336,chalky white,,white,FALSE
+SAP337,yellow,,red,FALSE
+SAP338,cream,,red,FALSE
+SAP339,light brown,,cream,FALSE
+SAP340,light brown,,cream,FALSE
+SAP341,cream,,chalky white,FALSE
+SAP342,cream,,yellow,FALSE
+SAP343,chalky white,,cream,FALSE
+SAP344,light brown,,cream,FALSE
+SAP345,cream,,yellow,FALSE
+SAP346,cream,,chalky white,TRUE
+SAP347,yellow,,red,FALSE
+SAP348,chalky white,,chalky white,FALSE
+SAP349,red,,chalky white,FALSE
+SAP350,chalky white,,white,FALSE
+SAP351,chalky white,,cream,FALSE
+SAP352,cream,,red,FALSE
+SAP353,cream,,cream,FALSE
+SAP354,red,,cream,FALSE
+SAP355,white,,red,FALSE
+SAP356,chalky white,,light red,FALSE
+SAP357,red,,red,FALSE
+SAP358,light brown,,chalky white,FALSE
+SAP359,dark brown,,yellow,FALSE
+SAP360,chalky white,,red,FALSE
+SAP361,yellow,,chalky white,FALSE
+SAP362,red,,light red,FALSE
+SAP363,white,,light red,FALSE
+SAP364,red,,white,FALSE
+SAP365,red,,chalky white,TRUE
+SAP366,chalky white,,red,TRUE
+SAP367,light brown,,white,FALSE
+SAP368,red,,chalky white,FALSE
+SAP369,white,,yellow,FALSE
+SAP370,chalky white,,yellow,FALSE
+SAP371,yellow,,cream,FALSE
+SAP372,yellow,,yellow,TRUE
+SAP373,cream,,cream,FALSE
+SAP374,light brown,,light red,FALSE
+SAP375,cream,,light brown,FALSE
+SAP376,cream,,red,FALSE
+SAP377,red,,dark brown,FALSE
+SAP378,light brown,,light red,TRUE
+SAP379,dark brown,,light brown,FALSE
+SAP380,dark brown,,light brown,FALSE
+SAP381,light brown,,light brown,FALSE
+SAP382,light brown,,light brown,FALSE
+SAP383,light brown,,light red,FALSE
+SAP384,yellow,,dark brown,FALSE
+SAP385,dark brown,,cream,FALSE
+SAP386,dark brown,,cream,FALSE
+SAP387,cream,,cream,FALSE
+SAP388,cream,,white,FALSE
+SAP389,yellow,,light brown,FALSE
+SAP390,white,,cream,FALSE
+SAP391,light brown,,light brown,TRUE
+SAP392,chalky white,,cream,FALSE
+SAP393,dark brown,,cream,FALSE
+SAP394,chalky white,,red,FALSE
+SAP395,white,,cream,FALSE
+SAP396,light brown,,yellow,FALSE
+SAP397,cream,,red,TRUE
+SAP398,light brown,,light red,FALSE
+SAP399,light brown,,,
+SAP400,red,,,
